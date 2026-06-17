@@ -12,7 +12,7 @@
 
 ## 📖 About This Repository
 
-This repo is a collection of LeetCode problems solved across **C++, Java, Python, and JavaScript**. Each entry includes the problem statement, a link to the source file, and a sample input/output.
+This repo is a running log of LeetCode problems solved across **C++, Java, Python, and JavaScript**. Each entry includes the problem statement, a link to the source file, and a sample input/output.
 
 ## 📑 Table of Contents
 
