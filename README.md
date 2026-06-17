@@ -2,7 +2,7 @@
 
 # 🧩 LitCoder — LeetCode Submissions Vault
 
-![Total Solutions](https://img.shields.io/badge/Total%20Solutions-89-6e40c9?style=for-the-badge) ![Made with my own good ol' human noggin](https://img.shields.io/badge/Made%20with-my%20own%20good%20ol'%20human%20noggin-orange?style=for-the-badge)
+![Total Solutions](https://img.shields.io/badge/Total%20Solutions-89-6e40c9?style=for-the-badge) ![Made with my own good ol' human noggin](https://img.shields.io/badge/Made%20with-my%20good%20ol'%20human%20noggin-orange?style=for-the-badge)
 
 ![C++](https://img.shields.io/badge/C%2B%2B-29_solutions-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-14_solutions-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-38_solutions-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-8_solutions-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
